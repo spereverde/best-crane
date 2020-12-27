@@ -103,7 +103,7 @@ sections:
   - type: section_cta
     section_id: call-to-action
     title: Maak mijn website
-    subtitle: This is an optional description for the call to action block.
+    subtitle: Neem contact met ons op
     actions:
       - type: action
         label: Contacteer ons
