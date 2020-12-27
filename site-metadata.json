@@ -1,10 +1,10 @@
 {
-    "title": "Azimuth",
-    "palette": "blue",
+    "title": "tinmonkay",
+    "palette": "orange",
     "base_font": "nunito-sans",
     "header": {
         "type": "header",
-        "logo_img": "images/logo.svg",
+        "logo_img": "/images/tinmonkay_logo_2.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
@@ -25,18 +25,6 @@
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "type": "action",
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
             }
         ]
     },
@@ -45,10 +33,10 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "/images/tinmonkay_logo_2.png",
                 "image_alt": "Footer logo",
                 "image_url": "/",
-                "content": "Stackbit theme demo"
+                "content": "Helemaal webcontent"
             },
             {
                 "type": "footer_nav",
@@ -56,7 +44,7 @@
                 "nav_links": [
                     {
                         "type": "action",
-                        "label": "About Us",
+                        "label": "Over ons",
                         "url": "/about",
                         "style": "link"
                     },
@@ -64,12 +52,6 @@
                         "type": "action",
                         "label": "Blog",
                         "url": "/blog",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
-                        "label": "Sign Up",
-                        "url": "/signup",
                         "style": "link"
                     },
                     {
@@ -115,8 +97,8 @@
             },
             {
                 "type": "footer_form",
-                "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "title": "Blijf op de hoogte",
+                "content": "Blijf op de hoogte",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
@@ -125,11 +107,11 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Enter email address",
+                        "default_value": "E-mail adres",
                         "is_required": true
                     }
                 ],
-                "submit_label": "Subscribe"
+                "submit_label": "Schrijf je in!"
             }
         ],
         "has_nav": true,
@@ -147,6 +129,6 @@
                 "style": "link"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Get yours <a href=\"https://app.stackbit.com/create?theme=azimuth\" target=\"_blank\" rel=\"noopener\">here</a>."
+        "content": "&copy; tinmonkay. All rights reserved. This Jamstack site was created on <a href=\"https://www.stackbit.com\" target=\"_blank\" rel=\"noopener\">Stackbit</a>."
     }
 }
