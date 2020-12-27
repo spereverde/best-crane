@@ -113,7 +113,7 @@
                         "input_type": "email",
                         "name": "email",
                         "label": "Email",
-                        "default_value": "Enter e-mail address",
+                        "default_value": "Enter e-mail adres",
                         "is_required": true
                     }
                 ],
