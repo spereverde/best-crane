@@ -1,56 +1,57 @@
 ---
 title: Home
-meta_title: Stackbit Azimuth Theme
-meta_description: The preview of the Azimuth theme
+meta_title: tinmonkay
+meta_description: Helemaal webcontent
 sections:
   - type: section_hero
     section_id: hero
-    title: This Is A Big Hero Headline
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+    title: tinmonkay
+    content: Helemaal webcontent
     image: images/hero.png
     image_alt: App preview
     actions:
       - type: action
-        label: Learn More
+        label: Lees meer
         url: /features
         style: primary
   - type: section_features
     section_id: features
-    title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    title: Wat doen wij?
+    subtitle: Wij maken uw website voor je tot je helemaal webcontent bent
     background: gray
     features:
       - type: feature_item
-        title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        title: Focus op inhoud
+        content: >
+          Razendsnelle websites die hun focus leggen op de inhoud, in een mooi
+          kleedje natuurlijk.
+
+
+          Wat wil u graag aan de wereld vertellen? Wij vertellen uw verhaal op
+          het web.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
-            label: Learn More
+            label: Lees meer
             url: /features
             style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
       - type: feature_item
-        title: Awesome Feature of Your Services
+        title: Portfolios
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Toon je artistiek werk in een moderne, gebruiksvriendelijke
+          fotogallerij.
+
+          Kies uit een aantal bestaande voorbeelden die allemaal werken op alle
+          toestellen.
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
           - type: action
-            label: Learn More
+            label: Lees meer
             url: /features
             style: secondary
             has_icon: true
@@ -101,11 +102,11 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - type: section_cta
     section_id: call-to-action
-    title: This Is Call To Action Block!
-    subtitle: This is an optional description for the call to action block.
+    title: 'Ja, ik wil graag een website!'
+    subtitle: Neem contact met ons op
     actions:
       - type: action
-        label: Get Started
+        label: Contacteer ons
         url: /signup
         style: primary
   - type: section_posts

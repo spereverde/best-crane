@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: tinmonkay blog
 template: blog
 ---
