@@ -23,7 +23,7 @@ sections:
     background: gray
     features:
       - type: feature_item
-        title: Focus op content
+        title: Focus op inhoud
         content: >
           Razendsnelle websites die hun focus leggen op de inhoud, in een mooi
           kleedje natuurlijk.
