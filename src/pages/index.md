@@ -24,10 +24,12 @@ sections:
     features:
       - type: feature_item
         title: Focus op content
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Razendsnelle websites die hun focus leggen op de inhoud, in een mooi
+          kleedje natuurlijk.
+
+          Wat wil u graag aan de wereld vertellen? Wij vertellen uw verhaal op
+          het web.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         actions:
