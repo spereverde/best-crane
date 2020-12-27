@@ -106,7 +106,7 @@ sections:
     subtitle: This is an optional description for the call to action block.
     actions:
       - type: action
-        label: Get StartedNeem contact met ons op
+        label: Contacteer ons
         url: /signup
         style: primary
   - type: section_posts
