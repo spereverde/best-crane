@@ -41,12 +41,9 @@ sections:
             icon_position: right
       - type: feature_item
         title: Je eigen webshop
-        content: >-
-          Toon je artistiek werk in een moderne, gebruiksvriendelijke
-          fotogallerij.
-
-          Kies uit een aantal bestaande voorbeelden die allemaal werken op alle
-          toestellen.
+        content: >
+          Voor een simpele webshop heb je niet veel nodig. De inhoud heb jij,
+          wij zorgen voor de mooie online verpakking.
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
