@@ -28,6 +28,7 @@ sections:
           Razendsnelle websites die hun focus leggen op de inhoud, in een mooi
           kleedje natuurlijk.
 
+
           Wat wil u graag aan de wereld vertellen? Wij vertellen uw verhaal op
           het web.
         image: images/feature1.png
