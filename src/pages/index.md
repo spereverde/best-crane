@@ -34,7 +34,7 @@ sections:
         image_alt: App preview on a phone and tablet
         actions:
           - type: action
-            label: Learn More
+            label: Lees meer
             url: /features
             style: secondary
             has_icon: true
