@@ -33,14 +33,14 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "/images/tinmonkay_logo_2.png",
+                "image": "/images/TinMonkay_logo_1.png",
                 "image_alt": "Footer logo",
                 "image_url": "/",
                 "content": "Helemaal webcontent"
             },
             {
                 "type": "footer_nav",
-                "title": "Company",
+                "title": "tinmonkay",
                 "nav_links": [
                     {
                         "type": "action",

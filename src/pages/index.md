@@ -17,7 +17,7 @@ sections:
   - type: section_features
     section_id: features
     title: Wat doen wij?
-    subtitle: Wij maken uw website voor je tot je helemaal webcontent bent
+    subtitle: Wij maken je website voor je tot je helemaal webcontent bent
     background: gray
     features:
       - type: feature_item
@@ -27,10 +27,25 @@ sections:
           kleedje natuurlijk.
 
 
-          Wat wil u graag aan de wereld vertellen? Wij vertellen uw verhaal op
+          Wat wil je graag aan de wereld vertellen? Wij vertellen je verhaal op
           het web.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
+        actions:
+          - type: action
+            label: Lees meer
+            url: /features
+            style: secondary
+            has_icon: true
+            icon: arrow-right
+            icon_position: right
+      - type: feature_item
+        title: Je eigen webshop
+        content: >
+          Voor een simpele webshop heb je niet veel nodig. De inhoud heb jij,
+          wij zorgen voor de mooie online verpakking.
+        image: /images/webshop.jpg
+        image_alt: App users welcoming a new member
         actions:
           - type: action
             label: Lees meer
@@ -45,29 +60,14 @@ sections:
           Toon je artistiek werk in een moderne, gebruiksvriendelijke
           fotogallerij.
 
+
           Kies uit een aantal bestaande voorbeelden die allemaal werken op alle
           toestellen.
-        image: images/feature2.png
-        image_alt: App users welcoming a new member
-        actions:
-          - type: action
-            label: Lees meer
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-      - type: feature_item
-        title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
         image: images/feature3.png
         image_alt: App user profile preview
         actions:
           - type: action
-            label: Learn More
+            label: Lees meer
             url: /features
             style: secondary
             has_icon: true
