@@ -63,6 +63,7 @@ sections:
           Toon je artistiek werk in een moderne, gebruiksvriendelijke
           fotogallerij.
 
+
           Kies uit een aantal bestaande voorbeelden die allemaal werken op alle
           toestellen.
         image: images/feature3.png
