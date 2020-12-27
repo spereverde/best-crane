@@ -27,7 +27,7 @@ sections:
           kleedje natuurlijk.
 
 
-          Wat wil u graag aan de wereld vertellen? Wij vertellen uw verhaal op
+          Wat wil je graag aan de wereld vertellen? Wij vertellen je verhaal op
           het web.
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
