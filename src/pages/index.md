@@ -44,7 +44,7 @@ sections:
         content: >
           Voor een simpele webshop heb je niet veel nodig. De inhoud heb jij,
           wij zorgen voor de mooie online verpakking.
-        image: images/feature2.png
+        image: /images/webshop.jpg
         image_alt: App users welcoming a new member
         actions:
           - type: action
