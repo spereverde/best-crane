@@ -17,9 +17,7 @@ sections:
   - type: section_features
     section_id: features
     title: Features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Wij maken uw website voor je tot je helemaal webcontent bent
     background: gray
     features:
       - type: feature_item
