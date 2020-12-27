@@ -60,9 +60,11 @@ sections:
       - type: feature_item
         title: Portfolios
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Toon je artistiek werk in een moderne, gebruiksvriendelijke
+          fotogallerij.
+
+          Kies uit een aantal bestaande voorbeelden die allemaal werken op alle
+          toestellen.
         image: images/feature3.png
         image_alt: App user profile preview
         actions:
