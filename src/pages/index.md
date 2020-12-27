@@ -51,7 +51,7 @@ sections:
         image_alt: App users welcoming a new member
         actions:
           - type: action
-            label: Learn More
+            label: Lees meer
             url: /features
             style: secondary
             has_icon: true
