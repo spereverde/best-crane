@@ -70,7 +70,7 @@ sections:
         image_alt: App user profile preview
         actions:
           - type: action
-            label: Learn More
+            label: Lees meer
             url: /features
             style: secondary
             has_icon: true
