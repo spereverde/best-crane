@@ -23,7 +23,7 @@ sections:
     background: gray
     features:
       - type: feature_item
-        title: The Best Feature of Your Services
+        title: Focus op content
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
