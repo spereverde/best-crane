@@ -33,7 +33,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "/images/tinmonkay_logo_2.png",
                 "image_alt": "Footer logo",
                 "image_url": "/",
                 "content": "Helemaal webcontent"
