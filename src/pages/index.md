@@ -40,7 +40,7 @@ sections:
             icon: arrow-right
             icon_position: right
       - type: feature_item
-        title: Portfolios
+        title: Je eigen webshop
         content: >-
           Toon je artistiek werk in een moderne, gebruiksvriendelijke
           fotogallerij.
