@@ -42,9 +42,10 @@ sections:
       - type: feature_item
         title: Portfolios
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          Toon je artistiek werk in een mooie gebruiksvriendelijke fotogallerij.
+
+          Kies uit een aantal bestaande voorbeelden die allemaal werken op alle
+          toestellen.
         image: images/feature2.png
         image_alt: App users welcoming a new member
         actions:
