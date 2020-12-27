@@ -5,7 +5,7 @@ meta_description: Helemaal webcontent
 sections:
   - type: section_hero
     section_id: hero
-    title: tinmonkayf
+    title: tinmonkay
     content: Helemaal webcontent
     image: images/hero.png
     image_alt: App preview
