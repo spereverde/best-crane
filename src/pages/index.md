@@ -42,7 +42,8 @@ sections:
       - type: feature_item
         title: Portfolios
         content: >-
-          Toon je artistiek werk in een mooie gebruiksvriendelijke fotogallerij.
+          Toon je artistiek werk in een moderne, gebruiksvriendelijke
+          fotogallerij.
 
           Kies uit een aantal bestaande voorbeelden die allemaal werken op alle
           toestellen.
